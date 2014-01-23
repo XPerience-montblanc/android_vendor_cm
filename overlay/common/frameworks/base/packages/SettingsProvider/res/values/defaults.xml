@@ -18,4 +18,8 @@
 -->
 <resources>
     <string name="def_backup_transport">com.google.android.backup/.BackupTransportService</string>
+     
+     <!-- Circle -->
+    <integer name="def_battery_style">2</integer>
+    
 </resources>
